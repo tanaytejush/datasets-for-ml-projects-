@@ -23,3 +23,8 @@ Reading `.xls` files needs the `xlrd` package (`pip install xlrd`).
 ## Note
 
 `train_data.csv` lists image file names only. The images themselves are not included in this repo.
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
